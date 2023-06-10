@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("Hello there, homepage for the Family Tree app coming soon...")
+    return HttpResponse("Hello there, the homepage for the Family Tree app coming soon...")
